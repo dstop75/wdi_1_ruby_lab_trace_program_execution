@@ -1,4 +1,4 @@
-require_relative '../lib/triangles'
+require_relative '../lib/triangle'
 
 RSpec.describe "valid_triangle?" do
   it 'returns true for triangles with valid side lengths' do
